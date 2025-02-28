@@ -11,4 +11,5 @@ HOW TO START THIS PROJECT: no idea
 AUTHORS: me i think?
 USER INSTRUCTIONS: rahrah
 
-This was very useful, because as a visual person, seeing what I wrote in the exam on computer helped me understand my mistakes. Also, the teacher explained very well each problem.
+This was very useful, because as a visual person, seeing what I wrote 
+in the exam on computer helped me understand my mistakes. Also, the teacher explained very well each problem.
